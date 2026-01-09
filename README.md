@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on projects to improve my skills and knowledge
-- 🌱 I’m currently learning about Firmware/Embedded, FPGAs, and LABVIEW
+- 🌱 I’m currently learning about Firmware/Embedded, FPGAs, and more
 - ⚡ Fun fact: I play Tabletennis
 
 <!--
