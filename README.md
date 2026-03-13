@@ -1,7 +1,7 @@
 ## Hi there 👋
 <!--## 🧰 Tech Stack-->
 
-⚡ Embedded Systems | Firmware | Robotics | Signal Processing
+⚡ Embedded Systems | Firmware | Robotics | Signal Processing | Control Systems
 
 I am an embedded systems engineer passionate about building systems where hardware meets low-level software. My work focuses on firmware development, real-time systems, robotics, and signal processing, combining control theory with embedded programming.
 
