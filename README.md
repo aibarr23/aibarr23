@@ -21,8 +21,8 @@ I enjoy designing:
 
 ## ⚡  Hobbies
 - 🏓 Table Tennis 🏓
-- 🕹️ Video Games 🎮
 - 🔧 Tinkering 🧰
+- 🕹️ Video Games 🎮
 - 🎧 Music 🎸
 
 
