@@ -6,7 +6,7 @@
 I am an embedded systems engineer passionate about building systems where hardware meets low-level software. My work focuses on firmware development, real-time systems, robotics, and signal processing, combining control theory with embedded programming.
 
 I enjoy designing:
-- ⚙️ Real-time firmware
+- ⚙️ Embedded systems & Firmware (Real-time or Event driven)
 - 🤖 Autonomous robotic systems
 - 📡 Wireless & IoT devices
 - 🎧 DSP and signal processing systems
